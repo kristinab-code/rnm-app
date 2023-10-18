@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rnm-app/static/css/main.f1d69346.css",
+    "main.js": "/rnm-app/static/js/main.2120e036.js",
+    "static/js/787.28cb0dcd.chunk.js": "/rnm-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/rnm-app/index.html",
+    "main.f1d69346.css.map": "/rnm-app/static/css/main.f1d69346.css.map",
+    "main.2120e036.js.map": "/rnm-app/static/js/main.2120e036.js.map",
+    "787.28cb0dcd.chunk.js.map": "/rnm-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d69346.css",
+    "static/js/main.2120e036.js"
+  ]
+}
